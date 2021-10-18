@@ -1,5 +1,5 @@
-Device=83
-Function=0..255
+Device=115
+Function=46
 
 Protocol=JVC  ' Edited 3/25/04 to match timing details from PDF from JVC http://www.jvcdig.com/D-ILA%20IR%20Codes%20REVa.pdf
 Frequency=37900
